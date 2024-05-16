@@ -1,0 +1,18 @@
+
+artificial neural networks: State of the art in business intelligence:
+
+Article analysis: 
+
+   In this article, the authors talk about business data and the importance of storing huge volumes in data warehouses.
+
+According to the authors data mining techniques such as neural networks are able to model relationships that exist in data collections and increasing business intelligences.
+   They re-emphasize ANN's and their use in prediction, forecasting and the complexities involved.
+
+   A new concept of self-organizing map (SOM) is being introduced in this article. The authors say that SOM is "used for clustering data according to similarities, such as finding application in market segmentation....a key weakness of the ANN's however is that they do not possess sound statistical theory for inference, diagnostics and model selection".
+
+  The articles concludes by saying that deep learning systems are more competitive than ANN's due to ...."deeper networks, training data and powerful new hardware"; especially when it comes to speech recognition, image classification and language translation.
+
+
+
+
+Source: https://www.hilarispublisher.com/open-access/artificial-neural-networks-state-of-the-art-in-business-intelligence-2151-6219-1000e107.pdf
